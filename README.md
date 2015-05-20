@@ -1,2 +1,2 @@
-# licenses
-Licenses used 
+# licences
+licence used 
